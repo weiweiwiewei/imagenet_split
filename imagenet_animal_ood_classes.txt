@@ -1,0 +1,166 @@
+# ImageNet动物类 - OOD类划分
+# 总计: 162 个类别
+# 格式: class_id  class_name
+
+n01494475	hammerhead shark
+n01496331	electric ray
+n01498041	stingray /
+n01518878	ostrich
+n01537544	indigo bunting
+n01558993	American robin
+n01592084	chickadee
+n01601694	American dipper
+n01608432	kite (bird of prey)
+n01629819	fire salamander
+n01632458	spotted salamander /
+n01641577	American bullfrog
+n01665541	leatherback sea turtle /
+n01677366	green iguana
+n01687978	agama /
+n01688243	frilled-necked lizard /
+n01692333	Gila monster
+n01693334	European green lizard
+n01694178	chameleon
+n01695060	Komodo dragon
+n01697457	Nile crocodile
+n01704323	triceratops
+n01729977	smooth green snake
+n01737021	water snake
+n01742172	boa constrictor
+n01748264	Indian cobra
+n01756291	sidewinder rattlesnake
+n01770393	scorpion
+n01775062	wolf spider
+n01796340	ptarmigan /
+n01797886	ruffed grouse /
+n01818515	macaw
+n01824575	coucal /
+n01828970	bee eater
+n01833805	hummingbird
+n01843383	toucan /
+n01847000	duck
+n01855032	red-breasted merganser
+n01871265	tusker /
+n01877812	wallaby /
+n01883070	wombat /
+n01910747	jellyfish /
+n01914609	sea anemone
+n01917289	brain coral
+n01930112	nematode
+n01950731	sea slug /
+n01983481	American lobster
+n01986214	hermit crab
+n01990800	isopod
+n02002724	black stork
+n02006656	spoonbill /
+n02009912	great egret
+n02011460	bittern bird /
+n02017213	common gallinule /
+n02018207	American coot
+n02018795	bustard
+n02025239	ruddy turnstone
+n02033041	dowitcher
+n02037110	oystercatcher
+n02056570	king penguin
+n02066245	grey whale
+n02071294	killer whale /
+n02085936	Maltese
+n02086079	Pekingese /
+n02086240	Shih Tzu
+n02086910	Papillon
+n02088094	Afghan Hound
+n02088238	Basset Hound
+n02089867	Treeing Walker Coonhound
+n02089973	English foxhound
+n02090379	Redbone Coonhound
+n02090721	Irish Wolfhound
+n02092339	Weimaraner
+n02093428	American Staffordshire Terrier
+n02093647	Bedlington Terrier
+n02093754	Border Terrier
+n02093991	Irish Terrier
+n02094114	Norfolk Terrier
+n02095570	Lakeland Terrier
+n02096051	Airedale Terrier
+n02097298	Scottish Terrier
+n02097474	Tibetan Terrier
+n02097658	Australian Silky Terrier
+n02098286	West Highland White Terrier
+n02099267	Flat-Coated Retriever
+n02099429	Curly-coated Retriever
+n02099601	Golden Retriever
+n02099712	Labrador Retriever
+n02101006	Gordon Setter
+n02101556	Clumber Spaniel
+n02105162	Malinois
+n02105251	Briard
+n02105412	Australian Kelpie
+n02105855	Shetland Sheepdog
+n02106030	collie
+n02106166	Border Collie
+n02106662	German Shepherd Dog
+n02107312	Miniature Pinscher
+n02108915	French Bulldog
+n02109961	husky
+n02110185	Siberian Husky
+n02110627	Affenpinscher
+n02110806	Basenji
+n02110958	pug /
+n02111129	Leonberger
+n02111500	Great Pyrenees dog
+n02112018	Pomeranian
+n02112350	Keeshond
+n02112706	brussels griffon
+n02113186	Cardigan Welsh Corgi
+n02113624	Toy Poodle
+n02113712	Miniature Poodle
+n02114367	grey wolf
+n02114548	Alaskan tundra wolf
+n02115641	dingo
+n02115913	dhole /
+n02117135	hyena
+n02119789	kit fox /
+n02123597	Siamese cat
+n02127052	lynx /
+n02134084	polar bear
+n02137549	mongoose
+n02168699	longhorn beetle
+n02169497	leaf beetle
+n02172182	dung beetle /
+n02177972	weevil
+n02190166	fly
+n02206856	bee
+n02226429	grasshopper /
+n02229544	cricket insect
+n02233338	cockroach
+n02236044	praying mantis
+n02264363	lacewing
+n02276258	red admiral butterfly /
+n02279972	monarch butterfly
+n02321529	sea cucumber
+n02326432	hare
+n02346627	porcupine
+n02389026	common sorrel horse /
+n02396427	wild boar
+n02408429	water buffalo
+n02412080	ram (adult male sheep)
+n02415577	bighorn sheep
+n02417914	Alpine ibex
+n02423022	gazelle
+n02437616	llama /
+n02454379	armadillo
+n02457408	three-toed sloth
+n02483362	gibbon
+n02486410	baboon
+n02488291	langur /
+n02490219	marmoset
+n02492660	howler monkey
+n02493509	titi monkey /
+n02493793	Geoffroy's spider monkey
+n02494079	common squirrel monkey
+n02500267	indri /
+n02504013	Asian elephant
+n02504458	African bush elephant
+n02514041	snoek fish /
+n02607072	clownfish
+n02641379	gar fish

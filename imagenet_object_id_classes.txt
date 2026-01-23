@@ -1,0 +1,122 @@
+# ImageNet交通工具和室内物品类 - ID类划分
+# 总计: 118 个类别
+# 格式: class_id  class_name
+
+n02692877	airship
+n02701002	ambulance
+n02814533	station wagon
+n02835271	tandem bicycle
+n02860847	bobsleigh
+n02951358	canoe
+n02965783	car mirror
+n03095699	container ship
+n03272562	electric locomotive
+n03344393	fireboat
+n03345487	fire truck
+n03417042	garbage truck
+n03444034	go-kart
+n03447447	gondola
+n03594945	jeep
+n03599486	rickshaw
+n03770679	minivan
+n03785016	moped
+n03796401	moving van
+n03930630	pickup truck
+n03947888	pirate ship
+n03977966	police van
+n04037443	race car
+n04065272	recreational vehicle
+n04147183	schooner
+n04266014	space shuttle
+n04273569	motorboat
+n04310018	steam locomotive
+n04461696	tow truck
+n04467665	semi-trailer truck
+n04592741	airplane wing
+n04612504	sailboat
+n02672831	accordion
+n02676566	acoustic guitar
+n02786058	Band-Aid
+n02787622	banjo
+n02791124	barber chair
+n02804414	bassinet
+n02804610	bassoon
+n02948072	candle
+n02988304	CD player
+n02992211	cello
+n02992529	mobile phone
+n03063689	coffeemaker
+n03085013	computer keyboard
+n03109150	corkscrew
+n03110669	cornet
+n03125729	cradle
+n03131574	infant bed
+n03179701	desk
+n03187595	rotary dial telephone
+n03201208	dining table
+n03223299	doormat
+n03290653	entertainment center
+n03337140	filing cabinet
+n03372029	flute
+n03376595	folding chair
+n03400231	frying pan
+n03425413	gas pump
+n03447721	gong
+n03452741	grand piano
+n03476991	hair spray
+n03481172	hammer
+n03483316	hair dryer
+n03485407	hand-held computer
+n03494278	harmonica
+n03495258	harp
+n03527444	holster
+n03532672	hook
+n03584254	iPod
+n03584829	clothes iron
+n03649909	lawn mower
+n03658185	letter opener
+n03666591	lighter
+n03697007	sawmill
+n03710193	mailbox
+n03721384	marimba
+n03733805	measuring cup
+n03742115	medicine cabinet
+n03759954	microphone
+n03777754	modem
+n03782006	monitor
+n03788365	mosquito net
+n03794056	mousetrap
+n03803284	muzzle
+n03804744	metal nail
+n03838899	oboe
+n03841143	odometer
+n03857828	oscilloscope
+n03874293	paddle wheel
+n03884397	pan flute
+n03908714	pencil sharpener
+n03938244	pillow
+n03976467	Polaroid camera
+n03982430	pool table
+n03995372	power drill
+n03998194	prayer rug
+n04004767	printer
+n04041544	radio
+n04069434	reflex camera
+n04074963	remote control
+n04153751	screw
+n04154565	screwdriver
+n04192698	shield
+n04208210	shovel
+n04264628	keyboard space bar
+n04311174	steel drum
+n04392985	tape player
+n04404412	television
+n04456115	torch
+n04487394	trombone
+n04505470	typewriter keyboard
+n04517823	vacuum cleaner
+n04536866	violin
+n04550184	wardrobe
+n04554684	washing machine
+n04590129	window shade
+n04596742	wok

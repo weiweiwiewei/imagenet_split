@@ -1,0 +1,166 @@
+# ImageNet其他类别类 - OOD类划分
+# 总计: 162 个类别
+# 格式: class_id  class_name
+
+n02667093	abaya
+n02699494	altar
+n02727426	apiary
+n02782093	balloon
+n02783161	ballpoint pen
+n02790996	barbell
+n02791270	barbershop
+n02807133	swimming cap
+n02808304	bath towel
+n02808440	bathtub
+n02817516	military hat (bearskin or shako)
+n02823428	beer bottle
+n02837789	bikini
+n02840245	ring binder
+n02843684	birdhouse
+n02859443	boathouse
+n02870880	bookcase
+n02871525	bookstore
+n02877765	bottle cap
+n02892201	brass memorial plaque
+n02894605	breakwater
+n02895154	breastplate
+n02909870	bucket
+n02910353	buckle
+n02916936	bulletproof vest
+n02927161	butcher shop
+n02966193	carousel
+n02971356	cardboard box / carton
+n02977058	automated teller machine
+n03000134	chain-link fence
+n03045698	cloak
+n03047690	clogs
+n03063599	coffee mug
+n03089624	candy store
+n03124170	cowboy hat
+n03126707	construction crane
+n03127747	crash helmet
+n03134739	croquet ball
+n03146219	cuirass
+n03197337	digital watch
+n03240683	drilling rig
+n03297495	espresso machine
+n03347037	fire screen
+n03384352	forklift
+n03445777	golf ball
+n03445924	golf cart
+n03457902	greenhouse
+n03459775	radiator grille
+n03461385	grocery store
+n03476684	hair clip
+n03498962	hatchet
+n03529860	home theater
+n03534580	hoop skirt
+n03598930	jigsaw puzzle
+n03617480	kimono
+n03627232	knot
+n03630383	lab coat
+n03680355	slip-on shoe
+n03690938	lotion
+n03692522	loupe magnifying glass
+n03706229	magnetic compass
+n03709823	messenger bag
+n03710721	one-piece bathing suit
+n03724870	mask
+n03769881	minibus
+n03773504	missile
+n03786901	mortar and pestle
+n03814639	neck brace
+n03814906	necklace
+n03837869	obelisk
+n03868863	oxygen mask
+n03887697	paper towel
+n03888605	parallel bars
+n03891332	parking meter
+n03920288	Petri dish
+n03929855	Pickelhaube
+n03933933	pier
+n03935335	piggy bank
+n03944341	pinwheel
+n03958227	plastic bag
+n03961711	plate rack
+n03976657	pole
+n03983396	soda bottle
+n03992509	potter's wheel
+n04019541	hockey puck
+n04026417	purse
+n04033901	quill
+n04116512	eraser
+n04118538	rugby ball
+n04118776	ruler measuring stick
+n04131690	salt shaker
+n04141076	saxophone
+n04201297	shoji screen / room divider
+n04209133	shower cap
+n04209239	shower curtain
+n04228054	ski
+n04229816	balaclava ski mask
+n04235860	sleeping bag
+n04243546	slot machine
+n04311004	through arch bridge
+n04325704	scarf
+n04326547	stone wall
+n04332243	strainer
+n04346328	stupa
+n04371430	swim trunks / shorts
+n04399382	teddy bear
+n04409515	tennis ball
+n04417672	thatched roof
+n04443257	tobacco shop
+n04462240	toy store
+n04479046	trench coat
+n04486054	triumphal arch
+n04493381	hot tub
+n04501370	turnstile
+n04525305	vending machine
+n04532670	viaduct
+n04552348	military aircraft
+n04557648	water bottle
+n04579432	whistle
+n04584207	hair wig
+n04591157	Windsor tie
+n04591713	wine bottle
+n04597913	wooden spoon
+n04599235	wool
+n06785654	crossword
+n06794110	traffic or street sign
+n07579787	plate
+n07584110	consomme
+n07613480	trifle
+n07615774	popsicle
+n07697537	hot dog
+n07714990	broccoli
+n07716358	zucchini
+n07716906	spaghetti squash
+n07717556	butternut squash
+n07742313	Granny Smith apple
+n07753275	pineapple
+n07831146	carbonara
+n07836838	chocolate syrup
+n07860988	dough
+n07871810	meatloaf
+n07873807	pizza
+n07880968	burrito
+n07892512	red wine
+n07930864	tea cup
+n09193705	mountain
+n09229709	bubble
+n09256479	coral reef
+n09421951	sandbar
+n09468604	valley
+n09835506	baseball player
+n10565667	scuba diver
+n11879895	rapeseed
+n12144580	corn
+n12267677	acorn
+n12620546	rose hip
+n12768682	horse chestnut seed
+n12985857	coral fungus
+n12998815	agaric
+n13040303	stinkhorn mushroom
+n13052670	hen of the woods mushroom
+n13133613	corn cob

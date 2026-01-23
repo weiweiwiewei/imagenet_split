@@ -1,0 +1,241 @@
+# ImageNet动物类 - ID类划分
+# 总计: 236 个类别
+# 格式: class_id  class_name
+
+n01440764	tench
+n01443537	goldfish
+n01484850	great white shark
+n01491361	tiger shark
+n01514668	rooster
+n01514859	hen
+n01530575	brambling
+n01531178	goldfinch
+n01532829	house finch
+n01534433	junco /
+n01560419	bulbul
+n01580077	jay
+n01582220	magpie
+n01614925	bald eagle /
+n01616318	vulture
+n01622779	great grey owl /
+n01630670	smooth newt
+n01631663	newt
+n01632777	axolotl /
+n01644373	tree frog
+n01644900	tailed frog
+n01664065	loggerhead sea turtle
+n01667114	mud turtle
+n01667778	terrapin /
+n01669191	box turtle
+n01675722	banded gecko
+n01682714	Carolina anole
+n01685808	desert grassland whiptail lizard
+n01689811	alligator lizard
+n01698640	American alligator
+n01728572	worm snake /
+n01728920	ring-necked snake
+n01729322	eastern hog-nosed snake
+n01734418	kingsnake
+n01735189	garter snake / snake）
+n01739381	vine snake
+n01740131	night snake
+n01744401	African rock python
+n01749939	green mamba
+n01751748	sea snake
+n01753488	Saharan horned viper /
+n01755581	eastern diamondback rattlesnake
+n01768244	trilobite
+n01770081	harvestman /
+n01773157	yellow garden spider
+n01773549	barn spider
+n01773797	European garden spider
+n01774384	southern black widow
+n01774750	tarantula /
+n01776313	tick
+n01784675	centipede
+n01795545	black grouse
+n01798484	prairie grouse /
+n01806143	peafowl
+n01806567	quail
+n01807496	partridge
+n01817953	african grey parrot
+n01819313	sulphur-crested cockatoo
+n01820546	lorikeet
+n01829413	hornbill
+n01843065	jacamar /
+n01855672	goose
+n01860187	black swan
+n01872401	echidna
+n01873310	platypus
+n01882714	koala /
+n01924916	flatworm
+n01943899	conch
+n01944390	snail
+n01945685	slug /
+n01955084	chiton
+n01968897	chambered nautilus
+n01978287	Dungeness crab
+n01978455	rock crab
+n01980166	fiddler crab
+n01981276	red king crab
+n01984695	spiny lobster
+n01985128	crayfish /
+n02002556	white stork
+n02007558	flamingo
+n02009229	little blue heron
+n02012849	crane bird
+n02013706	limpkin /
+n02027492	dunlin
+n02028035	common redshank
+n02051845	pelican
+n02058221	albatross
+n02074367	dugong /
+n02077923	sea lion
+n02085620	Chihuahua
+n02085782	Japanese Chin /
+n02086646	King Charles Spaniel
+n02087046	toy terrier
+n02087394	Rhodesian Ridgeback
+n02088364	Beagle
+n02088466	Bloodhound
+n02088632	Bluetick Coonhound
+n02089078	Black and Tan Coonhound
+n02090622	borzoi
+n02091032	Italian Greyhound
+n02091134	Whippet
+n02091244	Ibizan Hound
+n02091467	Norwegian Elkhound
+n02091635	Otterhound
+n02091831	Saluki
+n02092002	Scottish Deerhound
+n02093256	Staffordshire Bull Terrier
+n02093859	Kerry Blue Terrier
+n02094258	Norwich Terrier
+n02094433	Yorkshire Terrier
+n02095314	Wire Fox Terrier
+n02095889	Sealyham Terrier
+n02096177	Cairn Terrier
+n02096294	Australian Terrier
+n02096437	Dandie Dinmont Terrier
+n02096585	Boston Terrier
+n02097047	Miniature Schnauzer
+n02097130	Giant Schnauzer
+n02097209	Standard Schnauzer
+n02098105	Soft-coated Wheaten Terrier
+n02098413	Lhasa Apso
+n02099849	Chesapeake Bay Retriever
+n02100236	German Shorthaired Pointer
+n02100583	Vizsla /
+n02100735	English Setter
+n02100877	Irish Setter
+n02101388	Brittany dog
+n02102040	English Springer Spaniel
+n02102177	Welsh Springer Spaniel
+n02102318	Cocker Spaniel
+n02102480	Sussex Spaniel
+n02102973	Irish Water Spaniel
+n02104029	Kuvasz
+n02104365	Schipperke
+n02105056	Groenendael dog
+n02105505	Komondor
+n02105641	Old English Sheepdog
+n02106382	Bouvier des Flandres dog
+n02106550	Rottweiler
+n02107142	Dobermann
+n02107574	Greater Swiss Mountain Dog
+n02107683	Bernese Mountain Dog
+n02107908	Appenzeller Sennenhund
+n02108000	Entlebucher Sennenhund
+n02108089	Boxer
+n02108422	Bullmastiff
+n02108551	Tibetan Mastiff
+n02109047	Great Dane
+n02109525	St. Bernard
+n02110063	Alaskan Malamute
+n02110341	Dalmatian /
+n02111277	Newfoundland dog
+n02111889	Samoyed
+n02112137	Chow Chow
+n02113023	Pembroke Welsh Corgi
+n02113799	Standard Poodle
+n02113978	Mexican hairless dog (xoloitzcuintli)
+n02114712	red wolf or maned wolf /
+n02114855	coyote
+n02116738	African wild dog
+n02119022	red fox
+n02120079	Arctic fox
+n02120505	grey fox
+n02123045	tabby cat
+n02123159	tiger cat /
+n02123394	Persian cat
+n02124075	Egyptian Mau
+n02125311	cougar /
+n02128385	leopard /
+n02128757	snow leopard
+n02128925	jaguar
+n02129165	lion
+n02129604	tiger
+n02130308	cheetah
+n02132136	brown bear
+n02133161	American black bear
+n02134418	sloth bear /
+n02138441	meerkat /
+n02165105	tiger beetle
+n02165456	ladybug
+n02167151	ground beetle
+n02174001	rhinoceros beetle /
+n02219486	ant
+n02231487	stick insect /
+n02256656	cicada
+n02259212	leafhopper
+n02268443	dragonfly
+n02268853	damselfly
+n02277742	ringlet butterfly
+n02280649	small white butterfly /
+n02281406	sulphur butterfly
+n02281787	gossamer-winged butterfly /
+n02317335	starfish
+n02319095	sea urchin
+n02325366	cottontail rabbit
+n02328150	Angora rabbit
+n02342885	hamster
+n02356798	fox squirrel
+n02361337	marmot
+n02363005	beaver
+n02364673	guinea pig /
+n02391049	zebra
+n02395406	pig
+n02397096	warthog
+n02398521	hippopotamus
+n02403003	ox /
+n02410509	bison /
+n02422106	hartebeest
+n02422699	impala (antelope) /
+n02437312	arabian camel
+n02441942	weasel /
+n02442845	mink
+n02443114	European polecat /
+n02443484	black-footed ferret
+n02444819	otter
+n02445715	skunk
+n02447366	badger
+n02480495	orangutan
+n02480855	gorilla
+n02481823	chimpanzee
+n02483708	siamang /
+n02484975	guenon /
+n02486261	patas monkey
+n02487347	macaque
+n02488702	black-and-white colobus
+n02489166	proboscis monkey
+n02492035	white-headed capuchin
+n02497673	ring-tailed lemur
+n02509815	red panda /
+n02510455	giant panda
+n02526121	eel
+n02536864	silver salmon
+n02606052	rock beauty fish
+n02640242	sturgeon
+n02643566	lionfish /
+n02655020	pufferfish
+

@@ -1,0 +1,89 @@
+# ImageNet交通工具和室内物品类 - OOD类划分
+# 总计: 85 个类别
+# 格式: class_id  class_name
+
+n02687172	aircraft carrier
+n02690373	airliner
+n02704792	amphibious vehicle
+n02917067	high-speed train
+n02930766	taxicab
+n02974003	car wheel
+n02981792	catamaran
+n03100240	convertible
+n03218198	dog sled
+n03393912	freight car
+n03478589	half-track
+n03538406	horse-drawn vehicle
+n03662601	lifeboat
+n03670208	limousine
+n03673027	ocean liner
+n03777568	ford model t
+n03792782	mountain bike
+n03895866	railroad car
+n04252077	snowmobile
+n04285008	sports car
+n04335435	tram
+n04347754	submarine
+n04482393	tricycle
+n04483307	trimaran
+n04509417	unicycle
+n04606251	shipwreck
+n02795169	barrel
+n02951585	can opener
+n02966687	tool kit
+n03000684	chainsaw
+n03016953	chiffonier
+n03017168	bell or wind chime
+n03018349	china cabinet
+n03041632	cleaver
+n03127925	crate
+n03133878	Crock Pot
+n03180011	desktop computer
+n03207941	dishwasher
+n03208938	disc brake
+n03249569	drum
+n03250847	drumstick
+n03259280	Dutch oven
+n03272010	electric guitar
+n03388549	four-poster bed
+n03394916	French horn
+n03482405	hamper
+n03492542	hard disk drive
+n03496892	combine harvester
+n03602883	joystick
+n03633091	ladle
+n03642806	laptop computer
+n03691459	music speaker
+n03720891	maraca
+n03729826	matchstick
+n03761084	microwave oven
+n03793489	computer mouse
+n03832673	notebook computer
+n03840681	ocarina
+n03843555	oil filter
+n03854065	pipe organ
+n03873416	paddle
+n03902125	payphone
+n03924679	photocopier
+n03967562	farm plow
+n03970156	plunger
+n04009552	projector
+n04044716	radio telescope
+n04070727	refrigerator
+n04099969	rocking chair
+n04111531	rotisserie
+n04125021	safe
+n04141327	scabbard
+n04152593	CRT monitor
+n04270147	spatula
+n04344873	couch
+n04371774	swing
+n04372370	electrical switch
+n04398044	teapot
+n04418357	front curtain
+n04428191	threshing machine
+n04442312	toaster
+n04515003	upright piano
+n04542943	waffle iron
+n04553703	sink
+n04589890	window screen
